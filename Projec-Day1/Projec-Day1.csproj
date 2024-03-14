@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Projec_Day1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<StartupObject>Projec_Day1.Program3</StartupObject>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
